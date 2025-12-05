@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="./photo.jpeg" width="200" style="border-radius: 50%;" />
+  <img src="Photo.jpeg" width="200" style="border-radius: 50%;" />
 </p>
 
 # 👋 Hi, I'm Mohammad Runna Sheikh
