@@ -1,4 +1,7 @@
 <div align="center">
+<p align="center">
+  <img src="YOUR_IMAGE_LINK_HERE" width="200" style="border-radius: 50%;" />
+</p>
 
 # 👋 Hi, I'm Mohammad Runna Sheikh
 
