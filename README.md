@@ -13,11 +13,8 @@ I'm a passionate developer who loves building creative, clean and impactful proj
 🏢 **Globallogic**
 🔗 **Portfolio:** [https://runna-sheikh-studio.vercel.app/](https://runna-sheikh-studio.vercel.app/)
 🔗 **Website:** [https://scjhaofficial.com/](https://scjhaofficial.com/)
-
 </div>
-
 ---
-
 ## 🚀 Tech Stack
 
 **Languages:** JavaScript, Dart, Python, C/C++
@@ -33,21 +30,14 @@ I'm a passionate developer who loves building creative, clean and impactful proj
 
 ## ⭐ Featured Projects
 
-### 🔹 Project 1 — *Your best project name here*
+### 🔹 Project 1 — Build a Fitech App like phonepe 
 
 
-
-
-
-
-
----
 
 ## 🤝 Connect With Me
 
 * 📧 Email: mohammadrunnasheikh@gmail.com
 * 🔗 https://www.linkedin.com/in/mohammad-runna-sheikh-38b05125a/
-
 
 ---
 
