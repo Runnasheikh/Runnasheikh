@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Runna Sheikh
+# 👋 Hi, I'm Mohammad Runna Sheikh
 
 ### 💻 Developer | Learner | Creator
 
@@ -32,39 +32,19 @@ I'm a passionate developer who loves building creative, clean and impactful proj
 
 ### 🔹 Project 1 — *Your best project name here*
 
-Short description of what the project does.
 
-* Tech used: Flutter / JS / API
-* 👉 [Repository Link](#)
 
-### 🔹 Project 2 — *Second best project*
 
-* What it does
-* Visual or screenshot (optional)
-* 👉 [Repository Link](#)
 
-### 🔹 Project 3 — *Any unique or experimental project*
 
-* What problem it solves
-* 👉 [Repository Link](#)
-
-(Replace the placeholder projects with your real pinned repos!)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Runnasheikh\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Runnasheikh\&layout=compact)
 
 ---
 
 ## 🤝 Connect With Me
 
-* 📧 Email: *add your email here*
-* 🔗 LinkedIn / Instagram (optional)
-* 🎬 YouTube (anime shorts): *your channel link*
+* 📧 Email: mohammadrunnasheikh@gmail.com
+* 🔗 https://www.linkedin.com/in/mohammad-runna-sheikh-38b05125a/
+
 
 ---
 
